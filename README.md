@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there My name is Eduardo Nicolalde and I'm a Telamatics Engineer and Software developer 👋
 
 <!--
 **AaronNicolalde/AaronNicolalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
